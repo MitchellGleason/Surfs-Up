@@ -11,7 +11,6 @@ The purpose of this analysis was to determine summary statistics for temperature
 
 ![Fig_DecemberTemps](/Figs/Fig_DecemberTemps.png)
 
-
 - The standard deviation is relatively low for both the month of June and December at only ~3.5 degrees fahrenheit
 
 ## Summary
