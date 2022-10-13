@@ -5,7 +5,7 @@ The purpose of this analysis was to determine summary statistics for temperature
 ## Results
 - The average temperature during the month of June is ~75 degrees fahrenheit with a minimum of 64 and a maximum of 85 degrees
 
-![Fig_JuneTemps](https://github.com/MitchellGleason/Surfs-Up/Figs/Fig_JuneTemps.png)
+![Fig_JuneTemps](Figs/Fig_JuneTemps.png)
 
 - The average temperature during the month of December is ~71 degrees fahrenheit with a minimum of 56 and a maximum of 83 degrees
 
